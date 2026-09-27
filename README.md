@@ -19,7 +19,11 @@ git branch -a
 
 
 *to work , pull them first* on terminal type -> 
+
+
 git switch simita
+
+
 git pull origin simita
 
 here simita is the name of branch.. choose your branch 
