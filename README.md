@@ -4,7 +4,11 @@ AI-Based Personalized University Academic Planner
 
 for clone- 
 go to terminal and type -> *copy and paste*
+
+
 git clone https://github.com/nsimita/Uniflow.git
+
+
 then enter then type
 cd Uniflow 
 then enter then type
