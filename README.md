@@ -14,6 +14,10 @@ cd Uniflow
 then enter then type
 code .
 
+**check your branch**
+git branch -a
+
+
 *to work , pull them first* on terminal type -> 
 git switch simita
 git pull origin simita
